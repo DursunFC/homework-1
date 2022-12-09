@@ -1,3 +1,5 @@
+/*Write an algorithm and draw a flowchart to convert the length in feet to centimeter.*/
+
 #include<stdio.h>
 void main()
 {

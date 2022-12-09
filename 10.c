@@ -1,3 +1,5 @@
+/*Draw a flowchart to find the largest of three numbers A, B, and C.*/
+
 #include<stdio.h>
 void main()
 {
